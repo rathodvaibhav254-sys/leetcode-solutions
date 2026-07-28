@@ -8,3 +8,4 @@ SELECT
 FROM Register
 GROUP BY contest_id
 ORDER BY percentage DESC, contest_id ASC;
+-- Percentage of Users Attended a Contest SQL Solution
